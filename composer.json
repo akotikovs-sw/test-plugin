@@ -1,0 +1,8 @@
+{
+    "name": "raddban/contact",
+    "description": "Contacts package for download via composer",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
