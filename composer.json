@@ -3,6 +3,7 @@
     "description": "Contacts package for download via composer",
     "type": "library",
     "license": "MIT",
-    "minimum-stability": "stable",
-    "require": {}
+    "minimum-stability": "dev",
+    "require": {},
+    "version": "1.0.2"
 }
