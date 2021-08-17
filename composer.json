@@ -4,6 +4,8 @@
     "type": "library",
     "license": "MIT",
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "raddban/contact": "^1.0.3"
+    },
     "version": "1.0.2"
 }
